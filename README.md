@@ -1,4 +1,4 @@
-# Airbnb Exploratory Data Analysis Project
+                                                                    # Airbnb Exploratory Data Analysis Project
 This project involves analyzing the Airbnb NYC 2019 dataset to uncover valuable insights into the distribution of listings, pricing, availability, and customer preferences across the five boroughs of New York City: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island. Given the complexity and diversity of the New York City rental market, this analysis is vital for understanding the unique dynamics that characterize each borough and neighborhood.
 
 The primary objective of this project is to extract meaningful insights from the data to provide crucial information to management and stakeholders. This data-driven approach will enable them to make informed decisions on how to expand or improve the business, ultimately leading to growth. By identifying emerging patterns from the observations, stakeholders can consider strategic recommendations tailored to their specific operational contexts. For example, insights regarding pricing strategies, listing features, and customer demographics can directly influence marketing approaches and resource allocation. This analysis will assist not only guests in making better choices but also help hosts implement necessary changes to enhance their offerings and grow their businesses.
@@ -36,5 +36,6 @@ We have created a new dataframe to generate insights with respect to those speci
 
 ## Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 - Price Distribution Across Neighbourhood Groups
-### Clustered bar chart: The chart will show how many properties fall into each price range, segmented by neighborhood group.
+#### Clustered bar chart: 
+The chart will show how many properties fall into each price range, segmented by neighborhood group.
 We can easily compare the price distribution across neighborhood groups and see which group has more properties in specific price ranges.
