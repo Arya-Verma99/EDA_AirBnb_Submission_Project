@@ -36,5 +36,5 @@ We have created a new dataframe to generate insights with respect to those speci
 
 ## Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 - Price Distribution Across Neighbourhood Groups
-Clustered bar chart: The chart will show how many properties fall into each price range, segmented by neighborhood group.
+### Clustered bar chart: The chart will show how many properties fall into each price range, segmented by neighborhood group.
 We can easily compare the price distribution across neighborhood groups and see which group has more properties in specific price ranges.
